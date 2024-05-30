@@ -6,7 +6,7 @@ This practice area aims to foster collaboration, knowledge exchange, and innovat
 
 :cherry_blossom: **Who we are**
 
-This practice area is a vibrant online community where AI enthusiasts, researchers, developers, and industry professionals converge to explore the fascinating world of natural language processing. Our community is built on the principles of inclusivity, collaboration, and continuous learning, welcoming individuals from diverse backgrounds and skill levels.
+This practice area is a vibrant online community where AI enthusiasts, researchers, developers, and industry professionals converge to explore the fascinating world of computer visioning. Our community is built on the principles of inclusivity, collaboration, and continuous learning, welcoming individuals from diverse backgrounds and skill levels.
 
 :busts_in_silhouette: **Who can join?**
 
